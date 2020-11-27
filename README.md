@@ -2,7 +2,7 @@
 
 | Exploit Information |                                   |
 |:------------------- |:--------------------------------- |
-| Publish Date        | 28.10.2017                        |
+| Date                | 28.10.2017                        |
 | Patched             | Windows 10 RS3 (16299)            |
 | Tested on           | Windows 8-10, x86 and x64         |
 
@@ -29,6 +29,7 @@ When everything worked correctly, Payload.exe should be executed, displaying bas
 Compiled binaries with example payload:
 
 [![](http://bytecode77.com/public/fileicons/zip.png) TaskMgrVolatileEnvironmentLPE.zip](https://bytecode77.com/downloads/TaskMgrVolatileEnvironmentLPE.zip)
+(**ZIP Password:** bytecode77)
 
 ## Project Page
 
