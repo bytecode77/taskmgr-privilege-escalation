@@ -28,7 +28,7 @@ When everything worked correctly, Payload.exe should be executed, displaying bas
 
 Compiled binaries with example payload:
 
-[![](http://bytecode77.com/public/fileicons/zip.png) TaskMgrVolatileEnvironmentLPE.zip](https://downloads.bytecode77.com/EnterProductKeyVolatileEnvironmentLPE.zip)
+[![](http://bytecode77.com/public/fileicons/zip.png) TaskMgrVolatileEnvironmentLPE.zip](https://downloads.bytecode77.com/TaskMgrVolatileEnvironmentLPE.zip)
 (**ZIP Password:** bytecode77)
 
 ## Project Page
