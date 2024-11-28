@@ -22,7 +22,7 @@ Our DLL is now executed with high IL. In this example, Payload.exe will be start
 
 When everything worked correctly, Payload.exe should be executed, displaying basic information including integrity level.
 
-![](https://bytecode77.com/images/pages/taskmgr-privilege-escalation/result.png)
+![](https://bytecode77.com/images/pages/taskmgr-privilege-escalation/result.webp)
 
 ## Downloads
 
